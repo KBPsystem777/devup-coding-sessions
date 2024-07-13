@@ -1,2 +1,2 @@
-# devup-coding-sessions
-DevUp! Smart Contract Coding Session
+# DevUp! Coding Session Prerequisites
+
