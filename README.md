@@ -11,8 +11,8 @@ description: >-
 
 **Hardware**
 
-* Computer: A laptop / desktop with at least 8GB of RAM
-* Operating System: Windows / macOS / Linux, etc
+* **Computer**: A laptop / desktop with at least 8GB of RAM
+* **Operating System**: Windows / macOS / Linux, etc
 
 **Software**
 
