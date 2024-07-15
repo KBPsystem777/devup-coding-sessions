@@ -13,7 +13,7 @@ MetaMask provides a user-friendly interface for managing your cryptocurrencies a
 
 ## Step-by-Step Guide to Setting Up a MetaMask Wallet
 
-**Step 1: Install MetaMask**
+#### **Step 1: Install MetaMask**
 
 * **Choose Your Browser:** MetaMask is available as an extension for Chrome, Firefox, Brave, and Edge. Open your preferred browser.
 * **Visit the MetaMask Website:** Go to the official MetaMask website at [metamask.io](https://metamask.io/). OR -&#x20;
@@ -31,7 +31,7 @@ MetaMask provides a user-friendly interface for managing your cryptocurrencies a
 
 </div>
 
-**Step 2: Create a New Wallet**
+#### **Step 2: Create a New Wallet**
 
 1. **Open MetaMask:** Click on the MetaMask icon in your browser's toolbar to open the extension.
 2. **Get Started:** Click on the "Get Started" button.
@@ -40,7 +40,7 @@ MetaMask provides a user-friendly interface for managing your cryptocurrencies a
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Creating a new wallet for the first time</p></figcaption></figure>
 
-**Step 3: Secure Your Wallet**
+#### **Step 3: Secure Your Wallet**
 
 1. **Backup Secret Recovery Phrase:** MetaMask will now display a 12-word Secret Recovery Phrase. This phrase is crucial for accessing your wallet if you forget your password or need to restore your wallet on a new device.
 2. **Write It Down:** Write down the 12-word phrase on a piece of paper. Do not store it digitally (e.g., taking a screenshot) to avoid potential hacks.
@@ -49,3 +49,4 @@ MetaMask provides a user-friendly interface for managing your cryptocurrencies a
 
 1. **Confirm Recovery Phrase:** MetaMask will ask you to confirm the Secret Recovery Phrase by selecting the words in the correct order. This step ensures that you have correctly backed up your phrase.
 2. **Secure Storage:** Store your written recovery phrase in a secure location, such as a safe or a safety deposit box. Do not share it with anyone.
+

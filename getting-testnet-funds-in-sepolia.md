@@ -26,7 +26,7 @@ Sepolia is one of Ethereum's test networks, designed for developers to test smar
 
 <figure><img src=".gitbook/assets/switching-network-to-sepolia-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption><p>Enabling the testnets and switching to Sepolia network</p></figcaption></figure>
 
-**Step 3: Access a Sepolia Faucet via Alchemy**
+#### **Step 3: Access a Sepolia Faucet via Alchemy**
 
 1. **Visit Alchemy faucet:** [https://www.alchemy.com/faucets/ethereum-sepolia](https://www.alchemy.com/faucets/ethereum-sepolia). Faucets are websites that distribute small amounts of testnet ETH for free.
 2. **MetaMask Account Address:** Copy your MetaMask wallet address by clicking on your account name in MetaMask.
