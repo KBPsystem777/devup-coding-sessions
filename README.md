@@ -7,6 +7,8 @@ description: >-
 
 # DevUp! Coding Session Prerequisites
 
+> 💡**Important Note:** Attending this session requires prior experience in **JavaScript**. If you are taking up the coding session for **Arbitrum Stylus**, you should also have experience in either **C**, **C++** and **Rust** programming language
+
 ## Technical Requirements
 
 **Hardware**
@@ -24,3 +26,5 @@ description: >-
   * Hardhat is a development environment designed specifically for Ethereum. It provides a flexible and extensible framework for compiling, deploying, testing, and debugging smart contracts. Hardhat makes it easier to manage complex Ethereum development workflows by offering features such as Solidity debugging, network forking, and task automation.
 * **VSCode**: [https://code.visualstudio.com](https://code.visualstudio.com)
   * Visual Studio Code is a free, open-source code editor developed by Microsoft. It is highly extensible and supports a wide range of programming languages and frameworks. For Solidity development, VSCode offers numerous extensions that provide syntax highlighting, code completion, and debugging capabilities, making it an ideal choice for smart contract development.
+
+🗒️**Important Note:** Attending this session requires prior experience in **JavaScript**. If you are taking up the coding session for **Arbitrum Stylus**, you should also have experience in either **C**, **C++** and **Rust** programming
