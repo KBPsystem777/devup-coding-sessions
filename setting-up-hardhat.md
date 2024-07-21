@@ -67,36 +67,36 @@ Update your hardhat.config.js to mimic the changes below.
 
 **1. Open MetaMask**
 
-1. Open your web browser.
-2. Click on the MetaMask extension icon in the top right corner of your browser.
+* Open your web browser.
+* Click on the MetaMask extension icon in the top right corner of your browser.
 
 **2. Unlock MetaMask**
 
-1. If your MetaMask is locked, enter your password to unlock it.
+* If your MetaMask is locked, enter your password to unlock it.
 
 **3. Select the Account**
 
-1. Click on the account you want to export the private key from. This is usually displayed as “Account 1”, “Account 2”, etc., with the associated Ethereum address.
+* Click on the account you want to export the private key from. This is usually displayed as “Account 1”, “Account 2”, etc., with the associated Ethereum address.
 
 **4. Access Account Details**
 
-1. Click on the three dots (menu) icon located in the top right corner of the account card.
-2. Select “Account Details” from the dropdown menu.
+* Click on the three dots (menu) icon located in the top right corner of the account card.
+* Select “Account Details” from the dropdown menu.
 
 **5. Export Private Key**
 
-1. In the “Account Details” window, click on the “Export Private Key” button.
-2. MetaMask will ask for your password to confirm your identity. Enter your MetaMask password and click “Confirm”.
+* In the “Account Details” window, click on the “Export Private Key” button.
+* MetaMask will ask for your password to confirm your identity. Enter your MetaMask password and click “Confirm”.
 
 **6. Copy the Private Key**
 
-1. After confirmation, MetaMask will display your private key. Copy this key and store it securely. **Do not share this key with anyone**.
+* After confirmation, MetaMask will display your private key. Copy this key and store it securely. **Do not share this key with anyone**.
 
 <figure><img src=".gitbook/assets/getting-private-keys-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption><p>Extracting the private keys from Metamask</p></figcaption></figure>
 
 **7. Securely Store the Private Key**
 
-1. Paste the copied private key into the `.env` file. **Do not leave it exposed** anywhere
+* Paste the copied private key into the `.env` file. **Do not leave it exposed** anywhere
 
 {% embed url="https://gist.github.com/KBPsystem777/245ba2f07fcb2ab6a1e17af19c120009" %}
 Paste your private key from Metamask to your .env file as see above
