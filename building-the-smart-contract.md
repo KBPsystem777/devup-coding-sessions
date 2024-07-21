@@ -4,6 +4,8 @@ description: From your VSCode, checkout Lock.sol smart contract
 
 # ➡️ Building the Smart Contract
 
+## Code Explanation
+
 This page explains the default contract provided in the Hardhat boilerplate. This simple contract, named **`Lock`**, allows an owner to lock up some Ether until a specified unlock time, after which the owner can withdraw the funds.
 
 Head over to your VSCode, open the contracts folder and checkout **Lock.sol**:
@@ -11,8 +13,6 @@ Head over to your VSCode, open the contracts folder and checkout **Lock.sol**:
 {% embed url="https://gist.github.com/KBPsystem777/a978883afdc0cc0230710ad47760d0a5" %}
 Lock.sol
 {% endembed %}
-
-## Code Explanation
 
 ### Detailed Breakdown
 
