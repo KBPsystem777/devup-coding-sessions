@@ -11,12 +11,16 @@ description: >-
 
 ## Technical Requirements
 
-**Hardware**
+### **Hardware**
 
 * **Computer**: A laptop / desktop with at least 8GB of RAM
 * **Operating System**: Windows / macOS / Linux, etc
 
-**Software**
+### **🛜 WiFi Connectivity**
+
+* Students are required to have a stable internet connection with a minimum speed of **5-10 Mbps** to participate effectively in this session.
+
+### **Software**
 
 * **NodeJS**: [https://nodejs.org](https://nodejs.org)
   * Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to execute JavaScript on the server side, enabling the creation of scalable and high-performance web applications. Node.js is essential for developing blockchain applications as it provides the environment for running development frameworks like Hardhat.
