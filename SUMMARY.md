@@ -5,3 +5,4 @@
 * [➡️ Getting TestNet Funds in Sepolia](getting-testnet-funds-in-sepolia.md)
 * [➡️ Setting up Hardhat](setting-up-hardhat.md)
 * [➡️ Building the Smart Contract](building-the-smart-contract.md)
+* [➡️ Deployment](deployment.md)
