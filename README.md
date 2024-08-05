@@ -22,16 +22,14 @@ description: >-
 
 ### **Software**
 
-* **NodeJS**: [https://nodejs.org](https://nodejs.org)
-  * Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to execute JavaScript on the server side, enabling the creation of scalable and high-performance web applications. Node.js is essential for developing blockchain applications as it provides the environment for running development frameworks like Hardhat.
+* **Remix IDE**: [https://remix.ethereum.org](https://remix.ethereum.org/)
+  * is an open-source, web-based Integrated Development Environment (IDE) specifically designed for developing smart contracts using the Solidity programming language on the Ethereum blockchain. It offers a suite of features that simplify the process of writing, testing, and deploying smart contracts.
 * **Github**: [https://github.com](https://nodejs.org)
   * GitHub is a platform for version control and collaboration, allowing you to store, manage, and track changes to your code repositories. It is widely used for open-source projects and provides a variety of tools for code review, project management, and integration with other development tools.
-* **Hardhat**: [https://hardhat.org](https://hardhat.org)
-  * Hardhat is a development environment designed specifically for Ethereum. It provides a flexible and extensible framework for compiling, deploying, testing, and debugging smart contracts. Hardhat makes it easier to manage complex Ethereum development workflows by offering features such as Solidity debugging, network forking, and task automation.
-* **VSCode**: [https://code.visualstudio.com](https://code.visualstudio.com)
-  * Visual Studio Code is a free, open-source code editor developed by Microsoft. It is highly extensible and supports a wide range of programming languages and frameworks. For Solidity development, VSCode offers numerous extensions that provide syntax highlighting, code completion, and debugging capabilities, making it an ideal choice for smart contract development.
 * **Metamask**: [https://metamask.io](https://metamask.io)
   * MetaMask is a cryptocurrency wallet and gateway to blockchain apps. It allows you to interact with the Ethereum blockchain directly from your web browser, making it easier to manage your crypto assets, interact with decentralized applications (dApps), and deploy smart contracts. MetaMask is essential for testing and deploying smart contracts on various Ethereum networks.
+* **Test Ethereum**
+  * It is essential for participants to have test ETH on the Sepolia test network. Test ETH is a form of Ethereum currency used on test networks to simulate transactions without using real money. This test ETH allows them to deploy and interact with their smart contracts in a risk-free environment, making it an indispensable part of the development process. Participants will receive test ETH by providing their wallet addresses here on our designated spreadsheet - [DevUp! Eth Request Form](https://docs.google.com/spreadsheets/d/139LkQG4Scnz\_nbTvWMnIqua8gS54RR2ooO0ltp2p5XI/edit?usp=sharing)
 
 
 
