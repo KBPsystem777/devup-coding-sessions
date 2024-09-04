@@ -96,7 +96,7 @@ This part of the script defines and exports the deployment module named "LockMod
 
     The deployed contract instance is returned as part of an object. This allows other modules or scripts to access the deployed contract.
 
-Once everything are all set, from your terminal, enter the command: `npx hardhat ignition deploy ./ignition/modules/Lock.js -- network sepolia`
+Once everything are all set, from your terminal, enter the command: `npx hardhat ignition deploy ./ignition/modules/Lock.js --network sepolia`
 
 <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>Successful deployment of Lock.sol in Sepolia Network</p></figcaption></figure>
 
